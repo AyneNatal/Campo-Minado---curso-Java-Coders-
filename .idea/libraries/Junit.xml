@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Junit">
+    <CLASSES />
+    <JAVADOC />
+    <NATIVE>
+      <root url="file://$PROJECT_DIR$/../../../../../../../dev/libs/Junit" />
+    </NATIVE>
+    <SOURCES />
+  </library>
+</component>
